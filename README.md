@@ -16,6 +16,14 @@ Grazie per il supporto!
 
 ---
 
+## Download
+
+Scarica l'ultima versione completa della traduzione dalla sezione **Releases**:
+
+[➡️ Scarica Elite Dangerous — Traduzione Italiana]([https://github.com/TUO-UTENTE/TUO-REPOSITORY](https://github.com/lele344/Elite_Dangerous_traduzione_ITA/releases/latest)
+
+---
+
 ## Avvio
 
 1. Avvia **`Elite Dangerous Italiano Avanzamento.exe`**.
