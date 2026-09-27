@@ -83,6 +83,36 @@ L'applicazione è distribuita in modo da non richiedere installazioni aggiuntive
 
 ---
 
+### Elite Dangerous in italiano
+
+<table>
+  <tr>
+    <td rowspan="2" width="65%" valign="middle">
+      <img src="screenshots/main.png" width="100%" alt="Schermata principale">
+    </td>
+    <td width="35%" valign="bottom">
+      <img src="screenshots/avvio_gioco.png" width="100%" alt="Traduzione in corso">
+    </td>
+  </tr>
+  <tr>
+    <td width="35%" valign="top">
+      <img src="screenshots/traduzione_in_corso.png" width="100%" alt="Avvio del gioco">
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="screenshots/gioco_tradotto_1.png" width="48%" alt="Elite Dangerous in italiano - 4">
+  <img src="screenshots/gioco_tradotto_2.png" width="48%" alt="Elite Dangerous in italiano - 5">
+</p>
+
+<p align="center">
+  <img src="screenshots/gioco_tradotto_3.png" width="48%" alt="Elite Dangerous in italiano - 6">
+  <img src="screenshots/gioco_tradotto_4.png" width="48%" alt="Elite Dangerous in italiano - 7">
+</p>
+
+---
+
 ## Limitazione di responsabilità
 
 Questo progetto è fornito “così com’è”, senza alcuna garanzia esplicita o implicita.
