@@ -20,7 +20,7 @@ Grazie per il supporto!
 
 Scarica l'ultima versione completa della traduzione dalla sezione **Releases**:
 
-[➡️ Scarica Elite Dangerous — Traduzione Italiana]([https://github.com/TUO-UTENTE/TUO-REPOSITORY](https://github.com/lele344/Elite_Dangerous_traduzione_ITA/releases/latest)
+[Scarica Elite Dangerous — Traduzione Italiana](https://github.com/lele344/Elite_Dangerous_traduzione_ITA/releases/latest)
 
 ---
 
